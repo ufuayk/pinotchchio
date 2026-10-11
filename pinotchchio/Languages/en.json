@@ -1,0 +1,19 @@
+{
+  "name": "English",
+  "strings": {
+    "newTask": "New task",
+    "archive": "Archive",
+    "settings": "Settings",
+    "emptyArchive": "Nothing here yet",
+    "resetArchive": "Reset",
+    "resetConfirm": "Sure?",
+    "launchAtLogin": "Open at startup",
+    "menuBarIcon": "Menu bar icon",
+    "language": "Language",
+    "openApp": "Open pinotchchio",
+    "quit": "Quit",
+    "add": "Add",
+    "history": "History",
+    "liquidGlass": "Liquid Glass"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Français",
+  "strings": {
+    "newTask": "Nouvelle tâche",
+    "archive": "Archives",
+    "settings": "Paramètres",
+    "emptyArchive": "Rien ici pour le moment",
+    "resetArchive": "Réinitialiser",
+    "resetConfirm": "Sûr ?",
+    "launchAtLogin": "Ouvrir au démarrage",
+    "menuBarIcon": "Icône de la barre de menus",
+    "language": "Langue",
+    "openApp": "Ouvrir pinotchchio",
+    "quit": "Quitter",
+    "add": "Ajouter",
+    "history": "Historique",
+    "liquidGlass": "Verre liquide"
+  }
+}

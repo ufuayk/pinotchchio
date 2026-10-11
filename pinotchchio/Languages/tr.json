@@ -1,0 +1,19 @@
+{
+  "name": "Türkçe",
+  "strings": {
+    "newTask": "Yeni görev",
+    "archive": "Arşiv",
+    "settings": "Ayarlar",
+    "emptyArchive": "Henüz bir şey yok",
+    "resetArchive": "Sıfırla",
+    "resetConfirm": "Emin misin?",
+    "launchAtLogin": "Açılışta başlat",
+    "menuBarIcon": "Menü çubuğu simgesi",
+    "language": "Dil",
+    "openApp": "pinotchchio'yu aç",
+    "quit": "Çık",
+    "add": "Ekle",
+    "history": "Geçmiş",
+    "liquidGlass": "Liquid Glass"
+  }
+}
